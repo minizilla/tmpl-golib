@@ -1,0 +1,1 @@
+# tmpl-golib [![Go Reference](https://pkg.go.dev/badge/github.com/minizilla/tmpl-golib.svg)](https://pkg.go.dev/github.com/minizilla/tmpl-golib) [![main](https://github.com/minizilla/tmpl-golib/actions/workflows/main.yaml/badge.svg)](https://github.com/minizilla/tmpl-golib/actions/workflows/main.yaml)
